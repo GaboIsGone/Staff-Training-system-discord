@@ -1,6 +1,6 @@
 # 🎓 Discord Training System — Public Demo
 
-Advanced training and evaluation system for Discord servers.
+System to automate Discord's staff training, eliminating manual tasks through automatic data registration in the cloud and dynamic role management.
 
 ## ⚠️ This repository contains a functional but limited public demo.
 The full production system is private and not open-source.
