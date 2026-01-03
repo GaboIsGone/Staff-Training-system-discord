@@ -75,7 +75,7 @@ These are available only in the private version.
 ## ⚙️ Installation & Usage
 ```bash
 npm install discord.js
-node training-system.demo.mjs
+node index.mjs
 ```
 
 ### Before running, configure:
